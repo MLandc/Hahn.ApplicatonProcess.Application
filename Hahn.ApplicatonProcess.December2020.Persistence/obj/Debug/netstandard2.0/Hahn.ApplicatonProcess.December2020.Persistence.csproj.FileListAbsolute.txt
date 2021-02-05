@@ -1,0 +1,5 @@
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.December2020.Application.dll
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\bin\Debug\netstandard2.0\Hahn.ApplicatonProcess.December2020.Domain.dll
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.December2020.Persistence.csprojAssemblyReference.cache
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.December2020.Persistence.AssemblyInfoInputs.cache
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\obj\Debug\netstandard2.0\Hahn.ApplicatonProcess.December2020.Persistence.AssemblyInfo.cs

@@ -1,0 +1,12 @@
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Application\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Application.deps.json
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Application\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Application.dll
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Application\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Application.pdb
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Application\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Domain.dll
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Application\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Domain.pdb
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Application\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Application.csprojAssemblyReference.cache
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Application\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Application.AssemblyInfoInputs.cache
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Application\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Application.AssemblyInfo.cs
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Application\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Application.csproj.CoreCompileInputs.cache
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Application\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Application.csproj.CopyComplete
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Application\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Application.dll
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Application\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Application.pdb

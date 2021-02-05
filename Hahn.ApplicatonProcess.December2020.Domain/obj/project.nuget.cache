@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qfHJ7vnmbkVCm8vfk7/8BhwR/C2DvAb3a4XSyZPdvrrG8Z7WFniYE30lLOEDPJu6mE8fYeBQBp/TFIsBa0CGyQ==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\Work\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Maria\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

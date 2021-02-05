@@ -1,0 +1,14 @@
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Application.dll
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Domain.dll
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Persistence.csprojAssemblyReference.cache
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Persistence.AssemblyInfoInputs.cache
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Persistence.AssemblyInfo.cs
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Persistence.csproj.CoreCompileInputs.cache
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Domain.pdb
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Persistence.deps.json
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Persistence.dll
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Persistence.pdb
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Application.pdb
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Persistence.csproj.CopyComplete
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Persistence.dll
+D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\obj\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Persistence.pdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Hahn.ApplicatonProcess.December2020.Persistence</id>
+    <version>1.0.0</version>
+    <authors>Hahn.ApplicatonProcess.December2020.Persistence</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Hahn.ApplicatonProcess.December2020.Application" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="5.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="5.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options.ConfigurationExtensions" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Development\Work\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Persistence\bin\Debug\netstandard2.1\Hahn.ApplicatonProcess.December2020.Persistence.dll" target="lib\netstandard2.1\Hahn.ApplicatonProcess.December2020.Persistence.dll" />
+  </files>
+</package>
